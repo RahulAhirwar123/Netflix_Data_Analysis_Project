@@ -10,6 +10,10 @@ This project focuses on analyzing Netflix movie data to uncover trends and patte
 - Identify the most popular categories of content.
 - Explore relationships between variables like release year and IMDb ratings.
 
+### 📊 Usage
+- Open [Netflix Movie Data Analysis.ipynb](https://github.com/RahulAhirwar123/Netflix_Data_Analysis_Project/blob/main/Netflix%20Movie%20Data%20Analysis.ipynb) in Jupyter Notebook.
+- Run the notebook to perform data analysis.
+
 ### 📊 Dataset:
 - The dataset consists of Netflix's movie and TV show catalog.
 - Includes information such as **title, genre, release year, duration, rating, and description**.
