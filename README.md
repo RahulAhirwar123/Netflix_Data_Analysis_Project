@@ -29,3 +29,25 @@ This project focuses on analyzing Netflix movie data to uncover trends and patte
 - What movie got the highest popularity? what it's genre ?
 - What movie got the lowest popularity? what it's genre ?
 - Which year has the most filmmed movies ?
+
+### 🔥Data Visualization **:**
+
+**Q.1. What is the most frequent genre of movies released on netflix ?**
+<img width="372" alt="image" src="https://github.com/user-attachments/assets/7a81f7b6-04ed-482a-8795-7000fb9a7162" />
+
+**Q.2. Which is highest votes in vote avg column ?**
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/56954f40-350b-4b05-a55a-41a779fac973" />
+
+**Q.3. What movie got the highest popularity? what it's genre ?**
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/82cc2b86-c378-4d1c-9859-9551d493c44c" />
+
+**Q.4. What movie got the lowest popularity? what it's genre ?**
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/0aed1373-6a23-4096-9cb4-ba551ea791d0" />
+
+**Q.5. Which year has the most filmmed movies ?**
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/a7f014a4-e5cb-4d8f-98a3-e9d37a094c6e" />
+
+
+
+
+
