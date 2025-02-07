@@ -15,12 +15,17 @@ This project focuses on analyzing Netflix movie data to uncover trends and patte
 - Includes information such as **title, genre, release year, duration, rating, and description**.
 
 ### 🛠️ Tools & Techniques:
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Data Cleaning & Processing**
-- **Exploratory Data Analysis (EDA)**
-- **Visualization of Key Insights**
+- ✅ **Data Cleaning & Preprocessing –** Handling missing values, duplicate entries, and formatting inconsistencies.
+- ✅ **Exploratory Data Analysis (EDA) –** Analyzing movie genres, release years, ratings, and trends over time.
+- ✅ **Visualization & Insights –** Using Python libraries like Matplotlib and Seaborn to create visual representations of trends in the dataset.
+- ✅ **Performance Metrics –** Identifying the most popular genres, countries producing the most content, and changes in Netflix's content strategy over the years.
 
 ### 🔥 Insights:
 - Distribution of content by year and genre.
 - Most common genres available on Netflix.
 - Trends in Netflix's content over the years.
+- What is the most frequent genre of movies released on netflix ?
+- Which is highest votes in vote avg column ?
+- What movie got the highest popularity? what it's genre ?
+- What movie got the lowest popularity? what it's genre ?
+- Which year has the most filmmed movies ?
